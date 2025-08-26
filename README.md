@@ -16,6 +16,8 @@ A simple Python CLI tool to quickly fetch IMDb IDs for movies and shows, making 
 Install `requests` with:
 pip3 install requests
 ## Examples:
-  jellyfin-imdb-cli.py "Breaking Bad"
-  jellyfin-imdb-cli.py "Batman" --list
-  jellyfin-imdb-cli.py "Batman" --list --year 2005
+  - jellyfin-imdb-cli.py "Breaking Bad"
+  
+ -  jellyfin-imdb-cli.py "Batman" --list
+  
+  - jellyfin-imdb-cli.py "Batman" --list --year 2005
