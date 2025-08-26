@@ -10,7 +10,7 @@ A simple Python CLI tool to quickly fetch IMDb IDs for movies and shows, making 
 
 ## Requirements
 - Python 3
-- OMDb API key (get a free key from [OMDb](http://www.omdbapi.com))
+- OMDb API key (get a free key from [OMDb](https://www.omdbapi.com))
 - Python dependency: [`requests`]
 
 Install `requests` with:
