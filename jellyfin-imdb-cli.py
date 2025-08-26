@@ -2,7 +2,7 @@ import requests
 import sys
 import urllib.parse
 
-OMDB_API_KEY = "API_KEY"  # Replace
+OMDB_API_KEY = "API_KEY"
 OMDB_URL = "http://www.omdbapi.com/"
 
 def print_help():
