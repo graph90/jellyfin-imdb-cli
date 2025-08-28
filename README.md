@@ -21,3 +21,12 @@ pip3 install requests
  -  python3 jellyfin-imdb-cli.py "Batman" --list
   
   - python3 jellyfin-imdb-cli.py "Batman" --list --year 2005
+
+## 🍻 Support / Tip Jar
+
+This project is free and will always be free — enjoy! 🙂  
+If it saved you time or made Jellyfin a little better, and you’d like to buy me a beer (totally optional), you can tip using **open source money**:
+
+- **Bitcoin (on-chain):** `bc1qxzgdwc9pgggram8jtnhsmrhdk5pvw8tx6h7qmj`
+- **Bitcoin Lightning:** `cloudyhubcap91@walletofsatoshi.com`
+- **Monero (XMR):** `4BHHdsAN5FCYgj65PyG6DP7P4H3xgNcxUKtnSddmwM7aV5CQbEz37L3NrN68UAeNm3B7PL9TeaJwYAkjQqFdc8go7gz9ymK`
